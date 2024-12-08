@@ -1,3 +1,0 @@
-ClientID: 31063382318-7ebh20b0b9mdnchkk2or11m8ojo7k4em.apps.googleusercontent.com
-Secret: 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
-https://www.youtube.com/watch?v=HtJKUQXmtok
