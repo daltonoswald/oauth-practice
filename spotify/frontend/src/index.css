@@ -1,0 +1,5 @@
+.track,
+.artist {
+  display: flex;
+  align-items: center;
+}
