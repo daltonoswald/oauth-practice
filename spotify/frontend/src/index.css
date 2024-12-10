@@ -1,5 +1,15 @@
 .track,
-.artist {
+.artist,
+.play-state {
   display: flex;
   align-items: center;
+}
+
+.play-state-song-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.play-state-song-info > p {
+  margin: 0;
 }
